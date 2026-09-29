@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "settings": {
+    "theme": "dark"
+  },
+  "categories": [
+    {
+      "id": "confirmacao-agendamento",
+      "name": "Confirmação de Agendamento",
+      "snippets": [
+        {
+          "id": "confirmar-presenca",
+          "label": "Confirmar Presença",
+          "shortcut": "ctrl+1",
+          "body": "Olá, [SAUDACAO], tudo bem? 😄\n\nSou Guilherme do setor de agendamento da Provernet.\n\nEstou entrando em contato para validar sobre seu atendimento agendado para [HOJE], tem gente para receber o técnico no local hoje?\n\nPoderia me encaminhar a localização para facilitar o processo do técnico?"
+        },
+        {
+          "id": "retorno-conexao",
+          "label": "Retorno de conexão",
+          "shortcut": "ctrl+2",
+          "body": "Olá, bom dia! Tudo bem? 👋\n\nSou Guilherme do setor de agendamentos da Provernet, estou entrando em contato para validar com você, pois temos uma ordem de serviço em aberto para uma desconexão no local, porém validamos aqui e sua conexão parece ter voltado. Poderia me confirmar se está tudo certo com a sua conexão? Caso sim, posso estar cancelando sua ordem de serviço?"
+        },
+        {
+          "id": "antecipar-atendimento",
+          "label": "Antecipar atendimento",
+          "shortcut": "ctrl+3",
+          "body": "Olá.Tudo bem?\n \n[SAUDACAO]. Conseguimos uma vaga para antecipar o seu atendimento para hoje, dia 17/09/2026. Teria interesse? Caso sim, teria alguém no local para receber o técnico em qual horário?"
+        },
+        {
+          "id": "suporte---financeiro",
+          "label": "Suporte / Financeiro",
+          "shortcut": "crtl + 4",
+          "body": "Olá, Bom dia! Tudo bem!? 😄\n\n Este contato será usado somente para o setor de Agendamento. Para o setor de Suporte, Comercial e Financeiro , poderia encaminhar uma mensagem nestes contatos abaixo, por favor?\n\n31 - 3051-2929 - Provernet \n\n0800 920 0800 - Provernet"
+        },
+        {
+          "id": "reagendamento-duplado",
+          "label": "Reagendamento duplado",
+          "shortcut": "crtl + 5",
+          "body": "Olá, [SAUDACAO]!\n\nSou Guilherme do setor de agendamentos da PROVERNET!\n\nEstou entrando em contato para validar sobre seu atendimento agendado para 20/08/2026, ontem nosso técnico identificou que seu atendimento necessitaria de atendimento de uma equipe pela distância do relançamento. Teria alguém no local hoje para receber novamente o técnico?"
+        },
+        {
+          "id": "reagendamento",
+          "label": "Reagendamento",
+          "shortcut": "crtl + 6",
+          "body": "Olá, Bom dia, tudo bem?\n\nSou Guilherme do setor de agendamentos da Provernet. Estou entrando em contato para validar uma nova data para seu agendamento.\n\nQual seria a sua nova data disponível no local?"
+        },
+        {
+          "id": "confima--o-de-cancelamento",
+          "label": "Confimação de cancelamento",
+          "shortcut": "crtl + 7",
+          "body": "Olá, [SAUDACAO], tudo bem? 😄\n\nSou Guilherme da Provernet.\n\nEstou entrando em contato para validar sobre o seu processo de cancelamento. Fomos informados sobre essa solicitação, podemos continuar?"
+        },
+        {
+          "id": "cto-com-sinal-alto",
+          "label": "CTO com sinal alto",
+          "shortcut": "ctrl + 8",
+          "body": "Olá, Bom dia, tudo bem? 😄\n\nSou Guilherme do setor de agendamento da Provernet.\n\nEstou entrando em contato para validar sobre seu atendimento agendado para 18/09/2026, nosso técnico foi até o local e nos informou que o problema da senhora seria na caixa de atendimento externo. No qual a nossa equipe de infraestrutura já foi acionada! Assim que a equipe resolver o problema da caixa sua conexão reestabelecerá!"
+        },
+        {
+          "id": "vai-entrar-em-contato",
+          "label": "Vai entrar em contato",
+          "shortcut": "ctrl + 9",
+          "body": "Olá! Tudo bem?\n\n[SAUDACAO], sou Guilherme do setor de agendamentos da Provernet. Estou entrando em contato pois no último contato foi informado que você entraria em contato para reagendar nova data de atendimento.\nPara agendar é só enviar uma mensagem por aqui que já retornaremos com uma nova data para seu agendamento.\nEstarei finalizando a OS momentâneamente até seu contato, reabriremos e agendaremos assim que retornar, tudo bem?"
+        },
+        {
+          "id": "reagendamento---mec-nico",
+          "label": "Reagendamento - Mecânico",
+          "shortcut": "",
+          "body": "Olá, Bom dia, tudo bem?\n\nSou Guilherme do setor de agendamentos da Provernet. Estou entrando em contato para validar uma nova data para seu agendamento. Nosso técnico teve um problema mecânico ontem não conseguindo realizar seu atendimento, conseguimos reagendar pra amanhã na parte da manhã?"
+        }
+      ]
+    }
+  ]
+}
